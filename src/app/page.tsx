@@ -108,8 +108,29 @@ const mockArt: ArtPiece[] = [
     id: 14, 
     name: "Dangling Chibi Keychain (Base, Premade)", 
     date: "5-7-25", 
-    status: "Available", 
+    status: "Sold", 
     imageUrl: "14.jpg" 
+  },
+  { 
+    id: 15, 
+    name: "Panda Chibi (Custom)", 
+    date: "14-10-25", 
+    status: "Sold", 
+    imageUrl: "15.jpg" 
+  },
+  { 
+    id: 16, 
+    name: "Drew the Dog Chibi (Custom)", 
+    date: "12-10-25", 
+    status: "Sold", 
+    imageUrl: "16.jpg" 
+  },
+  { 
+    id: 17, 
+    name: "Charmander Pokemon Adopt Halloween Batch (Premade)", 
+    date: "5-10-25", 
+    status: "Available", 
+    imageUrl: "17.jpg" 
   },
 ];
 
